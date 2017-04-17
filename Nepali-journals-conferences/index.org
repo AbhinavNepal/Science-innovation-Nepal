@@ -1,0 +1,32 @@
+#+BEGIN_COMMENT
+.. title: Journals and Conferences in Nepal
+.. slug: Nepali-journals-conferences
+.. date: 2017-04-17 12:41:18 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+
+.. class:: alert alert-info pull-right
+
+.. contents::
+#+END_COMMENT
+
+#+OPTIONS: toc:nil
+
+For the list of journals, it seems that there is already a database [[http://www.nepjol.info/index.php/index][here]].
+So, I am not collecting the database right now, but I need to properly read what exactly Nepal Journals Online do.
+I am a strong believer in open science and believe that all research works must be made openly available.
+
+Also, I would be interested in finding out some scientific way of ranking the journals.
+The objective is to provide incentives to the journals to maintain quality.
+
+* Upcoming Conferences
+
+** International
+- Mountains in the changing world ([[http://conference.kias.org.np/][MOCHWO 2017]])
+
+** National
+
+

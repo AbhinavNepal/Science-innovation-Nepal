@@ -1,5 +1,6 @@
 #+BEGIN_COMMENT
-.. title: Readme
+.. title: README
+.. hidetitle: True
 .. slug: index
 .. date: 2017-04-16 23:43:22 UTC+01:00
 .. tags: 
@@ -11,17 +12,20 @@
 
 #+OPTIONS: toc:nil
 
-This website contains useful resources that can help anyone interested in doing science and innovation related works in/for Nepal.
 
-For adding/correcting information, please create an issue or pull request [[https://github.com/bishesh/Science-innovation-Nepal/tree/master][at github]].
 
 You are at a right place if you are looking for:
 
-1. Nepali scientists working somewhere in the world in your field of interest,
+1. Nepali scientists working somewhere in the world in your field of interest ([[../Nepali-scholars/][link]]),
 
-2. Nepali research institutes doing great works in the field of your interest.
+2. Nepali research institutes doing great works in the field of your interest ([[../Nepali-research-institutions][link]]),
 
-You can also contribute to the repository by creating an issue or asking for a pull request when:
+3. Explore Nepali science, technology and innovation industry, ([[../Nepali-innovation-industry/][link]])
+
+4. Find out journals and conferences in Nepal ([[../Nepali-journals-conferences/][link]]).
+
+Please contribute to expand and keep this resource up to date by creating an issue or pull request [[https://github.com/bishesh/Science-innovation-Nepal/tree/master][at github]] for any addition/correction of information.
+Let me know if:
 
 1. there is someone {(even you :)} who is not in the list but should be,
 
@@ -29,42 +33,4 @@ You can also contribute to the repository by creating an issue or asking for a p
 
 3. you have (a) suggestion(s) on how to expand or add other different kinds of information.
 
-* [[../Nepali-scholars/][Nepali Scholars and Scientists around the world]]
-
-A curated list of Nepali scholars and scientists around the world in the field of science and technology.
-I hope this will be beneficial to researchers who are looking to find fellow researchers, network, collaborate or exchange ideas on the problems of common interest.
-In particular, I believe this can be very useful to Nepali scientists working in Nepal, and also people like me who is planning to move back to Nepal, establish a research institute and work over there.
-
-I prefer to keep the repository updated so that it contains currently active researchers who work on research problems and publish articles in conferences and journals.
-
-Please note that **having a PhD is neither a necessary nor a sufficient condition** for making into the list.
-The person must be active, contributing to the research community, and society by regularly publishing papers.
-Thus, someone who is working in an industry but regularly publishes scientific articles related to their work are also included.
-
-* [[../Nepali-research-institutions][Nepali Research Institutions]]
-
-This is a curated list of Nepali research institutions and labs.
-To make into this list, the organization must regularly update their list of contributions in peer-reviewed conferences and journals of "good quality".
-Please not that **reports written by NGOs** without any corresponding publications in a peer-review journals/conferences do not count!
-I know, "good quality" is difficult to measure, this is a :TODO:.
-I hope we can come up with some metrics for this {(suggestions are welcome :)}.
-
-* [[../Nepali-innovation-industry/][Nepali Innovation Industry]]
-
-This is a curated list of innovative companies in Nepal.
-I do not intend to put outsourcing companies in this list.
-The list will have companies that have some of the following traits:
-
-1. Established in Nepal
-
-2. disruptive innovation
-
-3. potential of having a big positive social impact
-
-4. doing research or collaborating with research institutions to build new world knowledge
-
-# [Nepali-Journals](../master/Nepali-Journals.org)
-
-A curated list of journals published from Nepal.
-It also contains resources that can enable Nepalese researchers to access international journals.
-
+I hope these resources are useful for anyone interested in doing science and innovation related works in/for Nepal.
