@@ -9,39 +9,23 @@
 .. type: text
 #+END_COMMENT
 
-#+OPTIONS: toc:1
+#+OPTIONS: toc:nil
 
-# Curated list of Nepali research institutes in Nepal
 
-#+BEGIN_EXAMPLE
-This is a curated list of Nepali research institutions and labs.
-To make into this list, the organization must regularly update their list of contributions in peer-reviewed conferences and journals of "good quality".
-Please not that **reports written by NGOs** without any corresponding publications in a peer-review journals/conferences do not count!
-I know, "good quality" is difficult to measure, this is a :TODO:.
+- A curated list of Nepali research institutions and labs.
+- To make into this list, the organization must regularly update their list of contributions in peer-reviewed conferences and journals of "good quality".
+- *Reports written by NGOs* without any corresponding publications in a peer-review journals/conferences do not count!
+
+I know, "good quality" is difficult to measure, this is a *TODO*.
 I hope we can come up with some metrics for this {(suggestions are welcome :)}.
-#+END_EXAMPLE
 
-* Life Sciences, Wildlife and Public Health
-** [[http://ribb.org.np/][Research Institute for Bioscience and Biotechnology]]
-- *They must make their publications easily available !!*
-- Focus areas:
-  - Medicinal Plant Research
-  - Pharmaceutical Research
-  - Food Science Research
-  - Strain Culture Center
 
-** [[https://www.tropicalmedicine.ox.ac.uk/nepal][Oxford University Clinical Research Unit - Nepal]]
-- Hosted by Patan Hospital
-- Major focus on enteric fever (Typhoid and Paratyphoid) and other causes of febrile illness including typhus, infections of the central nervous system and Hepatitis E.
-- Future plans to include viral causes of pneumonia, TB, emerging illnesses and other public health priorities in Nepal.
-- High altitiude sickness in Nepalese and travelers.
+#+TOC: headlines 1
 
-** [[http://www.cmdn.org.np/][Centre for Modelcular Dynamics Nepal]]
-- Public health, biotechnology and wildlife research
+* Encompassing broader domains
+** [[http://www.kias.org.np/][Kathmandu Institute of Applied Sciences]]
+- Currently seems to be working on analytical chemistry and conservation science.
 
-** [[http://www.chdsnepal.org/][Center for Health and Disease Studies Nepal]]
-- Established very recently; waiting to see their publications
- 
 * Environmental and Agricultural Sciences
 ** [[https://www.astajardcnepal.org][Asta-Ja Research and Development Center]]
 - *Need to put peer-reviewed publications in conferences and journals at ONE place*!!
@@ -51,7 +35,24 @@ I hope we can come up with some metrics for this {(suggestions are welcome :)}.
 - Need to see where they put their publications!!
 - "Develop an economically and environmentally sound mountain ecosystem to improve the living standards of mountain populations and to sustain vital ecosystem services for the billions of people living downstream now, and for the future."
 
-* Encompassing broader domains
-** [[http://www.kias.org.np/][Kathmandu Institute of Applied Sciences]]
-- Currently seems to be working on analytical chemistry and conservation science.
+* Life Sciences, Wildlife and Public Health
+** [[http://www.chdsnepal.org/][Center for Health and Disease Studies Nepal]]
+- Established very recently; waiting to see their publications
+ 
+** [[http://www.cmdn.org.np/][Centre for Modelcular Dynamics Nepal]]
+- Public health, biotechnology and wildlife research
+
+** [[https://www.tropicalmedicine.ox.ac.uk/nepal][Oxford University Clinical Research Unit - Nepal]]
+- Hosted by Patan Hospital
+- Major focus on enteric fever (Typhoid and Paratyphoid) and other causes of febrile illness including typhus, infections of the central nervous system and Hepatitis E.
+- Future plans to include viral causes of pneumonia, TB, emerging illnesses and other public health priorities in Nepal.
+- High altitiude sickness in Nepalese and travelers.
+
+** [[http://ribb.org.np/][Research Institute for Bioscience and Biotechnology]]
+- *They must make their publications easily available !!*
+- Focus areas:
+  - Medicinal Plant Research
+  - Pharmaceutical Research
+  - Food Science Research
+  - Strain Culture Center
 

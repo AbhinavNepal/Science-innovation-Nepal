@@ -13,28 +13,28 @@
 .. contents::
 #+END_COMMENT
 
-#+OPTIONS: toc:2
+#+OPTIONS: toc:nil
 
 # Curated list of Nepalese scholars in Nepal and around the world.
 # Also contains foreign scholars closely working on Nepal related topics
 # Sort each subheading with google scholar h-index
 
-#+BEGIN_EXAMPLE
-This is a curated list of Nepali scholars and scientists around the world in the field of science and technology.
-Scholars in each sub-fields are sorted with google scholar h-index.
+- A curated list of Nepali scholars and scientists around the world in the field of science and technology.
+- Scholars in each sub-fields sorted with google scholar h-index.
 
-I hope this will be beneficial to researchers who are looking to find fellow researchers, network, collaborate or exchange ideas on the problems of common interest.
-In particular, I believe this can be very useful to Nepali scientists working in Nepal, and also people like me who is planning to move back to Nepal, establish a research institute and work over there.
+- Beneficial to researchers looking to find fellow researchers, network, collaborate or exchange ideas on the problems of common interest.
+
+- Very useful to scientists working in Nepal, or to people like me planning to move back to Nepal, establish a research institute and work over there.
 
 I prefer to keep the repository updated so that it contains currently active researchers who work on research problems and publish articles in reputed conferences and journals of their respected fields.
 
-Please note that having a PhD is neither a necessary nor a sufficient condition for making into the list.
+*Having a PhD is neither a necessary nor a sufficient condition* for making into the list.
 The person must be active, contributing to the research community, and society by regularly publishing papers.
 Thus, someone who is working in an industry but regularly publishes scientific articles related to their work.
 
-Note: I am trying to include PhD candidates too, if they are publishing articles in the most reputed international journals/conferences of their respective fields.
+*Note:* I would like to include PhD candidates too, if they are publishing articles in the most reputed international journals/conferences of their respective fields.
 
-#+END_EXAMPLE
+#+TOC: headlines 2
 
 * Biology and Medicine
 

@@ -136,9 +136,10 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # link, title
         # ("/pages/", "Home"),
-        ("/Nepali-scholars/", "Nepali Scholars"),
-        ("/Nepali-research-institutions/", "Nepali Research Institutes"),
-        ("/Nepali-innovation-industry/", "Nepali Innovation Industry")
+        ("/Nepali-scholars/", "Scholars"),
+        ("/Nepali-research-institutions/", "Research Institutes"),
+        ("/Nepali-innovation-industry/", "Innovation Industry"),
+        ("/Nepali-journals-conferences/", "Journals and Conferences"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
         # ("/rss.xml", "RSS feed"),
