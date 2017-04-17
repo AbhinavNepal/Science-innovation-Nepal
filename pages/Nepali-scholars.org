@@ -7,6 +7,10 @@
 .. link: 
 .. description: 
 .. type: text
+
+.. class:: alert alert-info pull-right
+
+.. contents::
 #+END_COMMENT
 
 #+OPTIONS: toc:2
@@ -32,98 +36,57 @@ Note: I am trying to include PhD candidates too, if they are publishing articles
 
 #+END_EXAMPLE
 
-* Maths and Physics
-
-** Theoretical Mathematics
-
-*** [[https://sites.google.com/site/tankanathdhamala/home][Tanka Nath Dhamala]]
-:PROPERTIES:
-:h-index:  8
-:END:
-- Central Department of Mathematics, Tribhuvan University, Nepal
-- Graph theory, optimization and Scheduling applied to industry, society and sustainable development
-- [[https://scholar.google.co.uk/citations?user=jygVSO4AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Tanka_Dhamala][Researchgate]]
-
-*** [[http://math.purduecal.edu/~aryalg/][Gokarna Aryal]]
-:PROPERTIES:
-:h-index:  8
-:END:
-- Department of Mathematics, CS and Statistics, Purdue University Calumet, USA.
-- Distribution Theory, Applied Statistics, Reliability Analysis, Survival Analysis, Longitudinal Data Analysis.
-- [[https://scholar.google.co.uk/citations?user=4fu1Lp8AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Gokarna_Aryal2][Researchgate]]
-
-*** [[http://facultyweb.kennesaw.edu/dadhikar/][Dhruba Adhikari]]
-:PROPERTIES:
-:h-index:  3
-:END:
-- Department of Mathematics, Kennesaw State University, USA
-- Differential equations, nonlinear monotone operator theory in Banach spaces, topological degree theories, and critical point theory with applications in sciences and engineering.
-- [[https://scholar.google.co.uk/citations?user=yJipv1AAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Dhruba_Adhikari2][Researchgate]]
-
-** Theoretical Physics 
-
-*** [[https://lsa.umich.edu/physics/people/research-fellows/bshakya.html][Bibhusan Shakya]]                                       :particlePhysics:
-:PROPERTIES:
-:h-index:  11
-:END:
-- Department of Physics, University of Michigan, USA
-- Particle physics
-- [[https://scholar.google.co.uk/citations?user=ALOUo-EAAAAJ&hl=en&oi=ao][Google scholar]]
-
-*** [[http://tucdp.edu.np/faculty/][Narayan Adhikari]]
-:PROPERTIES:
-:h-index:  7
-:END:
-- Central Department of Physics, Tribhuvan University, Nepal
-- [[https://www.youtube.com/watch?v=6ZJysKmulSQ][Short video]]
-- Polymers, nano dots, molecular dynamics, monte carlo, first-principles simulations of solids.
-- [[https://scholar.google.co.uk/citations?user=VhEXmuEAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Narayan_Adhikari2][Researchgate]]
-
-** Applied Mathematics Biology and Biophysics
-
-*** [[http://faculty.fiu.edu/~chapagap/][Prem P. Chapagain]]                                          :biophysics:
-- Department of Physics, Florida International University, USA
-- Dynamics and photophysical properties of fluorescent proteins using detailed all-atom molecular dynamics simulations
-
-*** [[http://v.web.umkc.edu/vaidyan/][Naveen K Vaidya]]
-:PROPERTIES:
-:h-index:  8
-:END:
-- Department of Mathematics and Statistics, University of Missouri-Kansas City, USA
-- Applied mathematics, with specific areas of interest in mathematical biology (viral dynamics and immune systems, epidemiology, and ecology), mathematical and computational modeling, differential equations, dynamical systems, optimal control, and biostatistics.  
-- [[https://scholar.google.com/citations?user=w7mMcLoAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Naveen_Vaidya][Researchgate]]
-
-** Applied Mathematics Computational Neuroscience
-
-*** [[http://physics.gsu.edu/dhamala/dhamala.html][Mukesh Dhamala]]
-:PROPERTIES:
-:h-index:  19
-:END:
-- Department of Physics and Astronomy, Neuroscience Institute, Georgia State University, USA
-- NeuroPhysics of the brain: Brain Networks and Dynamics, Computational and Cognitive Neuroscience, Neuroimaging (EEG/fMRI) of human cognition.
-- [[https://scholar.google.co.uk/citations?user=jGVUxgsAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Mukesh_Dhamala][Researchgate]]
-
-** Applied Mathematics Geophysics
-
-*** [[http://www2.geo.uni-bonn.de/members/pudasaini/][Shiva P. Pudasaini]]
-:PROPERTIES:
-:h-index:  20
-:END:
-- Department of Geodynamics and Geophysics, Faculty of Mathematical and Natural Sciences, University of Bonn, Germany
-  Visiting, Kathmandu Univerity, Nepal
-- Physical-Mathematical Modelling, Scientific Computing, Three-Dimensional Free-surface Flows.
-- [[https://scholar.google.co.uk/citations?user=61lZC58AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Shiva_Pudasaini][Researchgate]]
-** Applied Mathematics Numerical Methods
-
-*** [[https://www.newcastle.edu.au/profile/bishnu-lamichhane][Bishnu Lamichhane]]
-:PROPERTIES:
-:h-index:  11
-:END:
-- School of Mathematical and Physical Sciences (Mathematics), The University of Newcastle Australa.
-- Numerical Methods for Partial Differential Equations, Mixed and Hybrid Finite Element Methods, Domain Decomposition Methods, Non-conforming Discretization Techniques, Nearly Incompressible Elasticity, Approximation Theory, Subset Selection & Variational Methods in Image Processing.
-- [[https://scholar.google.co.uk/citations?user=LZZNv1cAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Bishnu_Lamichhane][Researchgate]]
-
 * Biology and Medicine
+
+** Pediatrics
+
+*** [[https://www.researchgate.net/profile/Narayan_Bahadur_Basnet][Narayan Bahadur Basnet]]
+- Children's Medical Diagnosis Center (CMDC), Nepal
+- ?
+- [[https://www.researchgate.net/profile/Narayan_Bahadur_Basnet][Researchgate]]
+
+** Molecular Biology and Genetics
+
+*** [[https://biology.mit.edu/people/uttam_rajbhandary][Uttam Rajbhadary]]
+- Department of Biology, MIT, USA
+- Understand how tRNAs work in protein synthesis.
+  Transfer RNAs, Protein Synthesis, Suppressor tRNAs, RNA-protein Interactions and Proteins Carrying Unnatural Amino Acids.
+- Seems like no Google scholar and Researchgate profile.
+  Please refer [[https://biology.mit.edu/people/uttam_rajbhandary#selected_publications][here]] for publications.
+
+*** Ram P Maharjan
+:PROPERTIES:
+:h-index:  18
+:END:
+- School of Molecular Biosciences
+- ?
+- [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
+
+*** [[http://www.chdsnepal.org/profile/dr-roshan-l-shrestha-phd-ms-research-fage/][Roshan Lal Shrestha]]
+:PROPERTIES:
+:h-index:  5
+:END:
+- National Cancer Institute, National Institutes of Health, USA
+- Understanding the mechanism of chromosomal instability that leads to formation of tumor and development of genetic disorders.
+  He is interested in developing diagnostic and therapeutic tools targeting candidates responsible for tumorigenesis.
+- [[https://scholar.google.com/citations?user=lgGTZ5EAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Roshan_lal_Shrestha][Researchgate]]
+
+*** [[http://www.chdsnepal.org/profile/dr-rajendra-pangeni-phd/][Rajendra Pangeni]]
+- Feinberg School of medicine, Northwestern University, Chicago
+- Role of DNA methylation on Glioblastoma (GBM) and GBM stem cell biology.
+- [[https://www.researchgate.net/profile/Rajendra_Pangeni][Researchgate]]
+
+*** Yadav Sapkota
+- Department of Epidemiology & Cancer Control, St. Jude Children's Research Hospital, USA
+- ?
+- [[https://scholar.google.com/citations?user=QzIbC5oAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Yadav_Sapkota][Researchgate]]
+
+** Microbiology and related Biotechnology
+
+*** [[http://ribb.org.np/member/get_individual_detail/bijay-singh-phd][Bijay Singh]]
+- Department of Animal Cell Biotechnology, College of Agriculture and Life Science, Seoul National University, Korea.
+- Biomaterials design for gene/vaccine/drug delivery, Bioengineering of microbes for novel antibiotics
+- [[https://www.researchgate.net/profile/Bijay_Singh][Researchgate]]
 
 ** Infectious Disease
 
@@ -162,85 +125,6 @@ Note: I am trying to include PhD candidates too, if they are publishing articles
 - LVAD and heart transplantation, Adult Cardiac Surgery, Aortic Surgery, Pediatric Cardiac Surgery, CRT-D.
 - [[https://www.researchgate.net/profile/Nirmal_Panthee][Researchgate]]
 
-** Pediatrics
-
-*** [[https://www.researchgate.net/profile/Narayan_Bahadur_Basnet][Narayan Bahadur Basnet]]
-- Children's Medical Diagnosis Center (CMDC), Nepal
-- ?
-- [[https://www.researchgate.net/profile/Narayan_Bahadur_Basnet][Researchgate]]
-
-** Molecular Biology and Genetics
-
-*** Ram P Maharjan
-:PROPERTIES:
-:h-index:  18
-:END:
-- School of Molecular Biosciences
-- ?
-- [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
-
-*** [[http://www.chdsnepal.org/profile/dr-roshan-l-shrestha-phd-ms-research-fage/][Roshan Lal Shrestha]]
-:PROPERTIES:
-:h-index:  5
-:END:
-- National Cancer Institute, National Institutes of Health, USA
-- Understanding the mechanism of chromosomal instability that leads to formation of tumor and development of genetic disorders.
-  He is interested in developing diagnostic and therapeutic tools targeting candidates responsible for tumorigenesis.
-- [[https://scholar.google.com/citations?user=lgGTZ5EAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Roshan_lal_Shrestha][Researchgate]]
-
-*** [[http://www.chdsnepal.org/profile/dr-rajendra-pangeni-phd/][Rajendra Pangeni]]
-- Feinberg School of medicine, Northwestern University, Chicago
-- Role of DNA methylation on Glioblastoma (GBM) and GBM stem cell biology.
-- [[https://www.researchgate.net/profile/Rajendra_Pangeni][Researchgate]]
-
-*** Yadav Sapkota
-- Department of Epidemiology & Cancer Control, St. Jude Children's Research Hospital, USA
-- ?
-- [[https://scholar.google.com/citations?user=QzIbC5oAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Yadav_Sapkota][Researchgate]]
-
-** Microbiology and related Biotechnology
-
-*** [[http://ribb.org.np/member/get_individual_detail/bijay-singh-phd][Bijay Singh]]
-- Department of Animal Cell Biotechnology, College of Agriculture and Life Science, Seoul National University, Korea.
-- Biomaterials design for gene/vaccine/drug delivery, Bioengineering of microbes for novel antibiotics
-- [[https://www.researchgate.net/profile/Bijay_Singh][Researchgate]]
-
-* Public health
-
-** Environmental Health Science
-*** [[http://ehs.sph.berkeley.edu/amod-pokhrel/][Amod Pokhrel]]
-:PROPERTIES:
-:h-index:  9
-:END:
-- Department of Environmental Health Sciences, University of California Berkeley, USA
-- Household air pollution and risk of Tuberculosis infection and disease in men and women, and pneumonia in children.
-  Environmental and occupational impacts of lead from battery manufacturing and recycling processes, and lead-based paint in developing countries.
-- [[https://scholar.google.co.uk/citations?user=sx2GaK4AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Amod_Pokhrel][Researchgate]]
-** Antibiotic Resistance
-*** Sameer Mani Dixit
-- Center for Molecular Dynamics Nepal (CMDN), Nepal
-- "Research leading to evidence that can in turn facilitate policy planners to make effective health interventions in Nepal and other developing countries."
-  Epidemiology, Antibiotic Resistiance.
-- [[https://www.researchgate.net/profile/Sameer_Dixit3][Researchgate]]
-
-** Epidemiology
-*** Sulochana Manandhar
-:PROPERTIES:
-:h-index:  5
-:END:
-- Center for Molecular Dynamics Nepal (CMDN), Nepal
-- ?
-- [[https://scholar.google.co.uk/citations?user=HK6k3bYAAAAJ&hl=en&oi=ao][Google scholar]], [[https://www.researchgate.net/profile/Sulochana_Manandhar3][Researchgate]]
-
-** Health policy modeling
-*** [[http://projects.iq.harvard.edu/ppiud/people/elina-pradhan][Elina Pradhan]]
-:PROPERTIES:
-:h-index:  2
-:END:
-- Department of Global Health and Population, Harvard University
-- ?
-- [[https://scholar.google.com/citations?user=eLW4WQ0AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Elina_Pradhan][Researchgate]]
-
 * Chemistry and its subfields
 ** Analytic Chemistry ?
 *** [[http://www.bgiri.com/][Basant Giri]]
@@ -251,7 +135,60 @@ Note: I am trying to include PhD candidates too, if they are publishing articles
 - Development and use of miniaturized analytic methods (microfluidics, paper-analytical devices, point of care diagnostics) appropriate for resource limited settings for various applications.
 - [[https://scholar.google.com/citations?user=xfBx5bIAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Basant_Giri][Researchgate]]
 
+* Environmental Science
+
+** Biodiversity, Ecosystem, Flora and Fauna
+
+*** [[http://www.ku.edu.np/env/index.php?go=subodh][Subodh Sharma]]
+- Department of Environmental Science and Engineering, KU, Nepal.
+- River disturbance, fish ecology, macroinvertebrates’ biodiversity & zoogeography, agricultural intensification & rivers water quality, high altitude lakes aquatic biodiversity, and pesticides use and human health impact assessment
+- [[https://scholar.google.co.uk/citations?user=BXmyJ6QAAAAJ&hl=en][Google scholar WARNING SEEMS MISLEADING]] (Lists articles that do not seem to belong to him!! ), [[https://www.researchgate.net/profile/Subodh_Sharma6][Researchgate]]
+
 * Informatics, Computer and Computational Science
+
+** Bioinformatics and Genomics
+
+*** [[https://raunakms.wordpress.com/about/][Raunak Shrestha]]
+:PROPERTIES:
+:h-index:  4
+:END:
+- Laboratory of Advanced Genome Analysis , University of British Columbia, Canada.
+- Prostate Cancer Genomics & Bioinformatics.
+- [[https://scholar.google.com/citations?user=5A37xOcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Raunak_Shrestha][Researchgate]]
+
+** Climate change, Geomechanics, Seismology, Hydroinformatics
+
+*** [[http://www.princeton.edu/geosciences/tromp/people/#hom][Hom Nath Gharti]]
+:PROPERTIES:
+:h-index:  5
+:END:
+- Department of Geosciences, Princeton University, USA
+- Computational (geo)mechanics, including (an)elastic-gravitational wave propagation, postearthquake relaxation, glacial isostatic adjustment, and microearthquakes.
+- [[https://scholar.google.com/citations?user=5kLrzjcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Hom_Gharti][Researchgate]]
+
+*** [[https://sites.google.com/site/durgalalshrestha/][Durga Lal Shrestha]]
+:PROPERTIES:
+:h-index:  14
+:END:
+- Commonwealth Scientific and Industrial Research Organization (CSIRO), Melbourne, Australia.
+- Hydrological modelling, forecasting, Risk and uncertainty analysis of hydrological models.
+  Machine learning, data driven modelling, Bayesian networks
+- [[https://scholar.google.com/citations?user=b1qGAhgAAAAJ&hl=en][Google scholar]]
+
+*** [[http://www.ysu.edu/directory/people/suresh-sharma][Suresh Sharma]]
+:PROPERTIES:
+:h-index:  14
+:END:
+- Department of Civil and Environmental Engineering, Youngstown State University, Ohio, USA.
+- ?
+- [[https://scholar.google.com/citations?user=M0HYWXEAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Suresh_Sharma11][Researchgate]]
+
+** Communication, Network Theory and Applications
+
+*** [[https://www.simula.no/people/sabita][Sabita Maharjan]]
+- Communication system, Simula Research Laboratory, Oslo, Norway
+- Theoretical and data-driven approaches for energy efficient networks
+- [[https://scholar.google.co.uk/citations?user=zLbqxBAAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Sabita_Maharjan][Researchgate]]
 
 ** Computer Vision and Robotics
 
@@ -280,7 +217,25 @@ Note: I am trying to include PhD candidates too, if they are publishing articles
   In computer vision, he is specifically interested in detection, tracking, and image segmentation problems.
 - [[https://scholar.google.com/citations?hl=en&user=jz9Cz3sAAAAJ&view_op=list_works&sortby=pubdate][Google scholar]], [[https://www.researchgate.net/profile/Amit_Kc2][Researchgate]]
 
-** Machine Learning
+** Electronics and Related Computing
+
+*** [[https://www.stthomas.edu/engineering/faculty/kundan-nepal-.html][Kundan Nepal]]
+:PROPERTIES:
+:h-index:  10
+:END:
+- School of Engineering, University of St. Thomas, USA
+- [[https://scholar.google.com/citations?user=2Aup8BAAAAAJ&hl=en][Google Scholar]], [[https://www.researchgate.net/profile/Kundan_Nepal][Researchgate]]
+
+** Machine Learning and Artificial Intelligence, Natural Language Processing
+
+*** [[https://www-users.cs.york.ac.uk/~suresh/][Suresh Manandhar]]
+:PROPERTIES:
+:h-index:  27
+:END:
+- Department of Computer Science, University of York, UK.
+- Wide range of topics related to natural language processing.
+  Latent variable models (including quantum models) for compositional distributional semantics, community discovery using content and link analysis, answering complex questions, unsupervised learning of morphology, named entities and semantic relations.
+- [[https://scholar.google.co.uk/citations?user=5iH8GVIAAAAJ][Google scholar]], [[https://www.researchgate.net/profile/Suresh_Manandhar][Researchgate]]
 
 *** [[http://www.rudrapoudel.com/][Rudra Poudel]]
 :PROPERTIES:
@@ -343,58 +298,97 @@ Note: I am trying to include PhD candidates too, if they are publishing articles
 - Medical Imaging, Computer Vision, Image Segmentation, Multimodal/Monomodal Image Registration
 - [[https://scholar.google.co.uk/citations?user=h12ifugAAAAJ&hl=en][Google scholar]]
 
-** Bioinformatics and Genomics
+* Maths and Physics
 
-*** [[https://raunakms.wordpress.com/about/][Raunak Shrestha]]
+** Applied Mathematics Biology and Biophysics
+
+*** [[http://faculty.fiu.edu/~chapagap/][Prem P. Chapagain]]                                          :biophysics:
+- Department of Physics, Florida International University, USA
+- Dynamics and photophysical properties of fluorescent proteins using detailed all-atom molecular dynamics simulations
+
+*** [[http://v.web.umkc.edu/vaidyan/][Naveen K Vaidya]]
 :PROPERTIES:
-:h-index:  4
+:h-index:  8
 :END:
-- Laboratory of Advanced Genome Analysis , University of British Columbia, Canada.
-- Prostate Cancer Genomics & Bioinformatics.
-- [[https://scholar.google.com/citations?user=5A37xOcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Raunak_Shrestha][Researchgate]]
+- Department of Mathematics and Statistics, University of Missouri-Kansas City, USA
+- Applied mathematics, with specific areas of interest in mathematical biology (viral dynamics and immune systems, epidemiology, and ecology), mathematical and computational modeling, differential equations, dynamical systems, optimal control, and biostatistics.  
+- [[https://scholar.google.com/citations?user=w7mMcLoAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Naveen_Vaidya][Researchgate]]
 
-** Communication, Network Theory and Applications
+** Applied Mathematics Computational Neuroscience
 
-*** [[https://www.simula.no/people/sabita][Sabita Maharjan]]
-- Communication system, Simula Research Laboratory, Oslo, Norway
-- Theoretical and data-driven approaches for energy efficient networks
-- [[https://scholar.google.co.uk/citations?user=zLbqxBAAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Sabita_Maharjan][Researchgate]]
-
-** Electronics and Related Computing
-
-*** [[https://www.stthomas.edu/engineering/faculty/kundan-nepal-.html][Kundan Nepal]]
+*** [[http://physics.gsu.edu/dhamala/dhamala.html][Mukesh Dhamala]]
 :PROPERTIES:
-:h-index:  10
+:h-index:  19
 :END:
-- School of Engineering, University of St. Thomas, USA
-- [[https://scholar.google.com/citations?user=2Aup8BAAAAAJ&hl=en][Google Scholar]], [[https://www.researchgate.net/profile/Kundan_Nepal][Researchgate]]
+- Department of Physics and Astronomy, Neuroscience Institute, Georgia State University, USA
+- NeuroPhysics of the brain: Brain Networks and Dynamics, Computational and Cognitive Neuroscience, Neuroimaging (EEG/fMRI) of human cognition.
+- [[https://scholar.google.co.uk/citations?user=jGVUxgsAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Mukesh_Dhamala][Researchgate]]
 
-** Climate change, Geomechanics, Seismology, Hydroinformatics
+** Applied Mathematics Geophysics
 
-*** [[http://www.princeton.edu/geosciences/tromp/people/#hom][Hom Nath Gharti]]
+*** [[http://www2.geo.uni-bonn.de/members/pudasaini/][Shiva P. Pudasaini]]
 :PROPERTIES:
-:h-index:  5
+:h-index:  20
 :END:
-- Department of Geosciences, Princeton University, USA
-- Computational (geo)mechanics, including (an)elastic-gravitational wave propagation, postearthquake relaxation, glacial isostatic adjustment, and microearthquakes.
-- [[https://scholar.google.com/citations?user=5kLrzjcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Hom_Gharti][Researchgate]]
+- Department of Geodynamics and Geophysics, Faculty of Mathematical and Natural Sciences, University of Bonn, Germany
+  Visiting, Kathmandu Univerity, Nepal
+- Physical-Mathematical Modelling, Scientific Computing, Three-Dimensional Free-surface Flows.
+- [[https://scholar.google.co.uk/citations?user=61lZC58AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Shiva_Pudasaini][Researchgate]]
 
-*** [[https://sites.google.com/site/durgalalshrestha/][Durga Lal Shrestha]]
-:PROPERTIES:
-:h-index:  14
-:END:
-- Commonwealth Scientific and Industrial Research Organization (CSIRO), Melbourne, Australia.
-- Hydrological modelling, forecasting, Risk and uncertainty analysis of hydrological models.
-  Machine learning, data driven modelling, Bayesian networks
-- [[https://scholar.google.com/citations?user=b1qGAhgAAAAJ&hl=en][Google scholar]]
+** Applied Mathematics Numerical Methods
 
-*** [[http://www.ysu.edu/directory/people/suresh-sharma][Suresh Sharma]]
+*** [[https://www.newcastle.edu.au/profile/bishnu-lamichhane][Bishnu Lamichhane]]
 :PROPERTIES:
-:h-index:  14
+:h-index:  11
 :END:
-- Department of Civil and Environmental Engineering, Youngstown State University, Ohio, USA.
-- ?
-- [[https://scholar.google.com/citations?user=M0HYWXEAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Suresh_Sharma11][Researchgate]]
+- School of Mathematical and Physical Sciences (Mathematics), The University of Newcastle Australa.
+- Numerical Methods for Partial Differential Equations, Mixed and Hybrid Finite Element Methods, Domain Decomposition Methods, Non-conforming Discretization Techniques, Nearly Incompressible Elasticity, Approximation Theory, Subset Selection & Variational Methods in Image Processing.
+- [[https://scholar.google.co.uk/citations?user=LZZNv1cAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Bishnu_Lamichhane][Researchgate]]
+
+** Theoretical Mathematics
+
+*** [[https://sites.google.com/site/tankanathdhamala/home][Tanka Nath Dhamala]]
+:PROPERTIES:
+:h-index:  8
+:END:
+- Central Department of Mathematics, Tribhuvan University, Nepal
+- Graph theory, optimization and Scheduling applied to industry, society and sustainable development
+- [[https://scholar.google.co.uk/citations?user=jygVSO4AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Tanka_Dhamala][Researchgate]]
+
+*** [[http://math.purduecal.edu/~aryalg/][Gokarna Aryal]]
+:PROPERTIES:
+:h-index:  8
+:END:
+- Department of Mathematics, CS and Statistics, Purdue University Calumet, USA.
+- Distribution Theory, Applied Statistics, Reliability Analysis, Survival Analysis, Longitudinal Data Analysis.
+- [[https://scholar.google.co.uk/citations?user=4fu1Lp8AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Gokarna_Aryal2][Researchgate]]
+
+*** [[http://facultyweb.kennesaw.edu/dadhikar/][Dhruba Adhikari]]
+:PROPERTIES:
+:h-index:  3
+:END:
+- Department of Mathematics, Kennesaw State University, USA
+- Differential equations, nonlinear monotone operator theory in Banach spaces, topological degree theories, and critical point theory with applications in sciences and engineering.
+- [[https://scholar.google.co.uk/citations?user=yJipv1AAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Dhruba_Adhikari2][Researchgate]]
+
+** Theoretical Physics 
+
+*** [[https://lsa.umich.edu/physics/people/research-fellows/bshakya.html][Bibhusan Shakya]]                                       :particlePhysics:
+:PROPERTIES:
+:h-index:  11
+:END:
+- Department of Physics, University of Michigan, USA
+- Particle physics
+- [[https://scholar.google.co.uk/citations?user=ALOUo-EAAAAJ&hl=en&oi=ao][Google scholar]]
+
+*** [[http://tucdp.edu.np/faculty/][Narayan Adhikari]]
+:PROPERTIES:
+:h-index:  7
+:END:
+- Central Department of Physics, Tribhuvan University, Nepal
+- [[https://www.youtube.com/watch?v=6ZJysKmulSQ][Short video]]
+- Polymers, nano dots, molecular dynamics, monte carlo, first-principles simulations of solids.
+- [[https://scholar.google.co.uk/citations?user=VhEXmuEAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Narayan_Adhikari2][Researchgate]]
 
 * Mechanical, Civil and Aerospace Engineering
 
@@ -407,14 +401,39 @@ Note: I am trying to include PhD candidates too, if they are publishing articles
 - Understanding and enhancing resilience of super high-rise, complex, and critical structures subject to multiple natural hazards including earthquakes and windstorms through experimental testing and multi-scale numerical and hybrid simulations.
 - [[https://scholar.google.com/citations?user=mxQapZMAAAAJ&hl=en][Google scholar]]
 
-* Environmental Science
+* Public health
 
-** Biodiversity, Ecosystem, Flora and Fauna
+** Antibiotic Resistance
+*** Sameer Mani Dixit
+- Center for Molecular Dynamics Nepal (CMDN), Nepal
+- "Research leading to evidence that can in turn facilitate policy planners to make effective health interventions in Nepal and other developing countries."
+  Epidemiology, Antibiotic Resistiance.
+- [[https://www.researchgate.net/profile/Sameer_Dixit3][Researchgate]]
 
-*** [[http://www.ku.edu.np/env/index.php?go=subodh][Subodh Sharma]]
-- Department of Environmental Science and Engineering, KU, Nepal.
-- River disturbance, fish ecology, macroinvertebrates’ biodiversity & zoogeography, agricultural intensification & rivers water quality, high altitude lakes aquatic biodiversity, and pesticides use and human health impact assessment
-- [[https://scholar.google.co.uk/citations?user=BXmyJ6QAAAAJ&hl=en][Google scholar WARNING SEEMS MISLEADING]] (Lists articles that do not seem to belong to him!! ), [[https://www.researchgate.net/profile/Subodh_Sharma6][Researchgate]]
+** Environmental Health Science
+*** [[http://ehs.sph.berkeley.edu/amod-pokhrel/][Amod Pokhrel]]
+:PROPERTIES:
+:h-index:  9
+:END:
+- Department of Environmental Health Sciences, University of California Berkeley, USA
+- Household air pollution and risk of Tuberculosis infection and disease in men and women, and pneumonia in children.
+  Environmental and occupational impacts of lead from battery manufacturing and recycling processes, and lead-based paint in developing countries.
+- [[https://scholar.google.co.uk/citations?user=sx2GaK4AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Amod_Pokhrel][Researchgate]]
+** Epidemiology
+*** Sulochana Manandhar
+:PROPERTIES:
+:h-index:  5
+:END:
+- Center for Molecular Dynamics Nepal (CMDN), Nepal
+- ?
+- [[https://scholar.google.co.uk/citations?user=HK6k3bYAAAAJ&hl=en&oi=ao][Google scholar]], [[https://www.researchgate.net/profile/Sulochana_Manandhar3][Researchgate]]
 
-
+** Health policy modeling
+*** [[http://projects.iq.harvard.edu/ppiud/people/elina-pradhan][Elina Pradhan]]
+:PROPERTIES:
+:h-index:  2
+:END:
+- Department of Global Health and Population, Harvard University
+- ?
+- [[https://scholar.google.com/citations?user=eLW4WQ0AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Elina_Pradhan][Researchgate]]
 
