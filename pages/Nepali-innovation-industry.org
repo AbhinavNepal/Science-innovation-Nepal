@@ -42,7 +42,7 @@ The list will have companies that have some of the following traits:
 
 * Society, Development and Open Data
 
-** [[www.kathmandulivinglabs.org/][Kathmandu Living Labs (KLL)]]
+** [[http://www.kathmandulivinglabs.org/][Kathmandu Living Labs (KLL)]]
 - "A civic tech group striving to co-create digital tools and information infrastructure so that government, nonprofits and businesses can use 21st century technology to provide everyday citizens the best services."
 - Has worked mostly in collecting and visualizing mapping data useful for various socio-economic aspects. 
 
