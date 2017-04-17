@@ -1,0 +1,11 @@
+# Emacs related
+*~
+
+# Nikola related
+cache
+.doit.db
+.doit.db.bak
+.doit.db.dat
+.doit.db.dir
+__pycache__
+output
