@@ -1,6 +1,6 @@
 Useful resources that can help anyone interested in doing science and innovation related works in/for Nepal.
 
-The website is at http://bishesh.github.io/Science-innovation-Nepal/index.html
+The website is [[http://bishesh.github.io/Science-innovation-Nepal/][here]]
 
 You can also contribute to the repository by creating an issue or asking for a pull request when:
 

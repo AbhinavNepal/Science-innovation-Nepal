@@ -136,9 +136,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # link, title
         # ("/pages/", "Home"),
-        ("/pages/Nepali-scholars/", "Nepali Scholars"),
-        ("/pages/Nepali-research-institutions/", "Nepali Research Institutes"),
-        ("/pages/Nepali-innovation-industry/", "Nepali Innovation Industry")
+        ("/Nepali-scholars/", "Nepali Scholars"),
+        ("/Nepali-research-institutions/", "Nepali Research Institutes"),
+        ("/Nepali-innovation-industry/", "Nepali Innovation Industry")
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
         # ("/rss.xml", "RSS feed"),
@@ -188,10 +188,10 @@ THEME_COLOR = '#5670d4'
 
 POSTS = ()
 PAGES = (
-    ("pages/*.org", "pages", "story.tmpl"),
-    ("pages/*.rst", "pages", "story.tmpl"),
-    ("pages/*.txt", "pages", "story.tmpl"),
-    ("pages/*.html", "pages", "story.tmpl"),
+    ("pages/*.org", "", "story.tmpl"),
+    ("pages/*.rst", "", "story.tmpl"),
+    ("pages/*.txt", "", "story.tmpl"),
+    ("pages/*.html", "", "story.tmpl"),
 )
 
 
