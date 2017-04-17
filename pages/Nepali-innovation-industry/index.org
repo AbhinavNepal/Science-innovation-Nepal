@@ -1,0 +1,25 @@
+#+BEGIN_COMMENT
+.. title: Nepali Innovation Industry
+.. slug: Nepali-innovation-industry
+.. date: 2017-04-16 23:56:18 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+#+END_COMMENT
+
+#+OPTIONS: toc:nil
+
+# A curated list of innovative companies in Nepal.
+
+I do not intend to put outsourcing companies in this list.
+The list will have companies that have some of the following traits:
+
+1. Established in Nepal
+
+2. disruptive innovation
+
+3. potential of having a big positive social impact
+
+4. doing research or collaborating with research institutions to build new world knowledge
