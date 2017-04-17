@@ -6,8 +6,24 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://bishesh.github.io/Science-innovation-Nepal/</loc>
+  <lastmod>2017-04-17T01:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bishesh.github.io/Science-innovation-Nepal/Nepali-innovation-industry/</loc>
+  <lastmod>2017-04-17T01:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bishesh.github.io/Science-innovation-Nepal/Nepali-research-institutions/</loc>
+  <lastmod>2017-04-17T01:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://bishesh.github.io/Science-innovation-Nepal/Nepali-scholars/</loc>
+  <lastmod>2017-04-17T01:42:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://bishesh.github.io/Science-innovation-Nepal/archive.html</loc>
-  <lastmod>2017-04-17T01:04:00Z</lastmod>
+  <lastmod>2017-04-17T01:42:00Z</lastmod>
  </url>
  <url>
   <loc>https://bishesh.github.io/Science-innovation-Nepal/blog/</loc>
@@ -24,21 +40,5 @@
  <url>
   <loc>https://bishesh.github.io/Science-innovation-Nepal/listings/</loc>
   <lastmod>2017-04-16T22:43:00Z</lastmod>
- </url>
- <url>
-  <loc>https://bishesh.github.io/Science-innovation-Nepal/pages/</loc>
-  <lastmod>2017-04-17T00:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://bishesh.github.io/Science-innovation-Nepal/pages/Nepali-innovation-industry/</loc>
-  <lastmod>2017-04-17T00:49:00Z</lastmod>
- </url>
- <url>
-  <loc>https://bishesh.github.io/Science-innovation-Nepal/pages/Nepali-research-institutions/</loc>
-  <lastmod>2017-04-17T00:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://bishesh.github.io/Science-innovation-Nepal/pages/Nepali-scholars/</loc>
-  <lastmod>2017-04-17T00:27:00Z</lastmod>
  </url>
 </urlset>
