@@ -40,7 +40,7 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 
 ** Pediatrics
 
-*** [[https://www.researchgate.net/profile/Laxmi_Ghimire][Laxmi Vilas Ghimire]]
+*** Laxmi Vilas Ghimire
 - University of California, San Francisco, USA
 - Pediatric Cardiology
 - [[https://www.researchgate.net/profile/Laxmi_Ghimire][Researchgate]]
@@ -53,11 +53,11 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 ** Molecular Biology and Genetics
 
 *** [[https://biology.mit.edu/people/uttam_rajbhandary][Uttam Rajbhadary]]
-- Department of Biology, MIT, USA
-- Understand how tRNAs work in protein synthesis.
-  Transfer RNAs, Protein Synthesis, Suppressor tRNAs, RNA-protein Interactions and Proteins Carrying Unnatural Amino Acids.
-- Seems like no Google scholar and Researchgate profile.
-  Please refer [[https://biology.mit.edu/people/uttam_rajbhandary#selected_publications][here]] for publications.
+  - Department of Biology, MIT, USA
+  - Understand how tRNAs work in protein synthesis.
+    Transfer RNAs, Protein Synthesis, Suppressor tRNAs, RNA-protein Interactions and Proteins Carrying Unnatural Amino Acids.
+  - Seems like no Google scholar and Researchgate profile.
+    Please refer [[https://biology.mit.edu/people/uttam_rajbhandary#selected_publications][here]] for publications.
 
 *** Ram P Maharjan
 :PROPERTIES:
