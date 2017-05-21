@@ -210,9 +210,20 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 ** Communication, Network Theory and Applications
 
 *** [[https://www.simula.no/people/sabita][Sabita Maharjan]]
+:PROPERTIES:
+:h-index:  10
+:END:
 - Communication system, Simula Research Laboratory, Oslo, Norway
 - Theoretical and data-driven approaches for energy efficient networks
 - [[https://scholar.google.co.uk/citations?user=zLbqxBAAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Sabita_Maharjan][Researchgate]]
+
+*** Anurag Rai
+:PROPERTIES:
+:h-index:  4
+:END:
+- Computer Science and Artificial Intelligence Lab (CSAIL), MIT, USA
+- Network theory, optimization
+- [[https://scholar.google.co.uk/citations?user=2JX6y4IAAAAJ&hl=en][Google scholar]]
 
 ** Computer Vision and Robotics
 
@@ -223,6 +234,16 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Computer Science, University of South Dakota, USA.
 - Computer Vision, Pattern Recognition, Unix Environment, Computer Organization, Database & Information Retrieval, Robotics & Image Processing, Artificial Intelligence, Data Mining, Signal Processing, Machine Learning.
 - [[https://scholar.google.com/citations?user=luPx18QAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/KC_Santosh][Santosh KC]]
+
+*** [[https://www.vision.ee.ethz.ch/en/members/detail/323/][Danda Pani Paudel]]
+- Computer vision lab (CVL), ETH Zurich, Switzerland
+- Computer Vision, Visual SLAM, Optimization
+- [[http://dblp.uni-trier.de/pers/hd/p/Paudel:Danda_Pani][dblp]]
+
+*** [[https://www.vision.ee.ethz.ch/en/members/detail/349/][Ajad Chhatkuli]]
+- Computer vision lab (CVL), ETH Zurich, Switzerland
+- Computer Vision, Visual SLAM, Optimization
+- [[http://dblp.uni-trier.de/pers/hd/c/Chhatkuli:Ajad][dblp]]
 
 *** [[https://www.linkedin.com/in/amir-tamrakar-b684449/][Amir Tamrakar]]
 :PROPERTIES:
@@ -240,7 +261,6 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Apply techniques from graph theory, optimization, and machine learning to solve real-life problems.
   In computer vision, he is specifically interested in detection, tracking, and image segmentation problems.
 - [[https://scholar.google.com/citations?hl=en&user=jz9Cz3sAAAAJ&view_op=list_works&sortby=pubdate][Google scholar]], [[https://www.researchgate.net/profile/Amit_Kc2][Researchgate]]
-
 
 ** Electronics and Related Computing
 
@@ -261,6 +281,14 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Wide range of topics related to natural language processing.
   Latent variable models (including quantum models) for compositional distributional semantics, community discovery using content and link analysis, answering complex questions, unsupervised learning of morphology, named entities and semantic relations.
 - [[https://scholar.google.co.uk/citations?user=5iH8GVIAAAAJ][Google scholar]], [[https://www.researchgate.net/profile/Suresh_Manandhar][Researchgate]]
+
+*** [[http://www.ssedhain.com][Suvash Sedhain]]
+:PROPERTIES:
+:h-index:  4
+:END:
+- [Company] Tabcorp Holdings, Sydney, Australia
+- Large-scale machine learning and data science, recommender systems
+- [[https://scholar.google.co.uk/citations?user=z_hDjNYAAAAJ&hl=en&oi=ao][Google scholar]]
 
 *** [[http://www.rudrapoudel.com/][Rudra Poudel]]
 :PROPERTIES:
@@ -317,6 +345,11 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Machine learning and optimization methods in application to inverse problems, model personalization and predictive modeling.
   Domain of cardiac electrophysiology, statistical inference methods for the estimation and uncertainty quantification of model parameters. 
 - [[https://scholar.google.com/citations?user=1bUxjvoAAAAJ&hl=en][Google scholar]]
+
+*** Taman Upadhaya
+- Department of nuclear medicine, Centre Hospitalier Universitaire de Poitiers, France
+- Radiomics and cancer imaging
+- [[https://www.researchgate.net/profile/Taman_Upadhaya][Researchgate]]
 
 *** [[http://www.rit.edu/kgcoe/biomedical/lintegrp/graduate-students][Shusil Dangi]]
 - (PhD candidate) Rochester Institute of Technology,
