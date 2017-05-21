@@ -245,6 +245,11 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Computer Vision, Visual SLAM, Optimization
 - [[http://dblp.uni-trier.de/pers/hd/c/Chhatkuli:Ajad][dblp]]
 
+*** [[https://abhishekdutta.org/][Abhishek Dutta]]
+- Visual Geometry Group (VGG), University of Oxford, UK
+- Compurer vision, Machine learning and computer graphics
+- [[https://abhishekdutta.org/publications/][Publications]]
+
 *** [[https://www.linkedin.com/in/amir-tamrakar-b684449/][Amir Tamrakar]]
 :PROPERTIES:
 :h-index:  8
