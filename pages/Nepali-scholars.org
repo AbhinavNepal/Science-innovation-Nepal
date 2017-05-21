@@ -40,6 +40,11 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 
 ** Pediatrics
 
+*** [[https://www.researchgate.net/profile/Laxmi_Ghimire][Laxmi Vilas Ghimire]]
+- University of California, San Francisco, USA
+- Pediatric Cardiology
+- [[https://www.researchgate.net/profile/Laxmi_Ghimire][Researchgate]]
+
 *** [[https://www.researchgate.net/profile/Narayan_Bahadur_Basnet][Narayan Bahadur Basnet]]
 - Children's Medical Diagnosis Center (CMDC), Nepal
 - ?
@@ -126,7 +131,19 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - [[https://www.researchgate.net/profile/Nirmal_Panthee][Researchgate]]
 
 * Chemistry and its subfields
+
+** Polymers
+
+*** [[http://www.nepalpolymer.org/][Rameshwor Adhikari]]
+:PROPERTIES:
+:h-index: 21
+:END:
+- Central Dept. of Chemistry, TU; Nepal Polymer Institute; Nepal
+- Nanochemistry, Biopolymers, Polymer Microscopy, Deformation Mechanisms, Nanostructured Polymers
+- [[https://scholar.google.co.uk/citations?user=2wTkqdsAAAAJ&hl=en][Google scholar]]
+
 ** Analytic Chemistry ?
+
 *** [[http://www.bgiri.com/][Basant Giri]]
 :PROPERTIES:
 :h-index:  5
@@ -135,7 +152,7 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Development and use of miniaturized analytic methods (microfluidics, paper-analytical devices, point of care diagnostics) appropriate for resource limited settings for various applications.
 - [[https://scholar.google.com/citations?user=xfBx5bIAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Basant_Giri][Researchgate]]
 
-* Environmental Science
+* Environmental and Energy Science
 
 ** Biodiversity, Ecosystem, Flora and Fauna
 
@@ -143,6 +160,13 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Department of Environmental Science and Engineering, KU, Nepal.
 - River disturbance, fish ecology, macroinvertebrates’ biodiversity & zoogeography, agricultural intensification & rivers water quality, high altitude lakes aquatic biodiversity, and pesticides use and human health impact assessment
 - [[https://scholar.google.co.uk/citations?user=BXmyJ6QAAAAJ&hl=en][Google scholar WARNING SEEMS MISLEADING]] (Lists articles that do not seem to belong to him!! ), [[https://www.researchgate.net/profile/Subodh_Sharma6][Researchgate]]
+
+** Biofeul, Bioenergy
+
+*** [[http://www2.hawaii.edu/~khanal/][Samir Khanal]]
+- University of Hawaii-Manoa, US
+- Bioprocessing for biofuel/bioenergy production and recovery of value-added products from renewable low-cost feedstocks
+- [[https://scholar.google.co.uk/citations?user=ZoYE6k0AAAAJ&hl=en][Google scholar]]
 
 * Informatics, Computer and Computational Science
 
@@ -216,6 +240,7 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Apply techniques from graph theory, optimization, and machine learning to solve real-life problems.
   In computer vision, he is specifically interested in detection, tracking, and image segmentation problems.
 - [[https://scholar.google.com/citations?hl=en&user=jz9Cz3sAAAAJ&view_op=list_works&sortby=pubdate][Google scholar]], [[https://www.researchgate.net/profile/Amit_Kc2][Researchgate]]
+
 
 ** Electronics and Related Computing
 
@@ -297,6 +322,15 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - (PhD candidate) Rochester Institute of Technology,
 - Medical Imaging, Computer Vision, Image Segmentation, Multimodal/Monomodal Image Registration
 - [[https://scholar.google.co.uk/citations?user=h12ifugAAAAJ&hl=en][Google scholar]]
+
+** Cyber security
+*** [[http://dhilung.com/][Dhilung Kirat]]
+:PROPERTIES:
+:h-index:  6
+:END:
+- IBM Thomas J. Watson Research Center
+- Cognitive security analytics, cyber security, threat intelligence, and malware analysis.
+- [[https://scholar.google.com/citations?user=qpQ37E4AAAAJ][Google Scholar]]
 
 * Maths and Physics
 
