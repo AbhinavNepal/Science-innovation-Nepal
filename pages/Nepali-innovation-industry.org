@@ -30,29 +30,29 @@ The list will have companies that have some of the following traits:
 
 * Education and Technology
 
-- [[http://www.karkhana.asia/][Karkhana]]
-  - "Teachers, Tinkers, Experimenters!"
-  - "Catalyze an ecosystem that permits the kids they teach to do the things they were unable to do – create innovative solutions to local problems, and make a living while doing it."
+1. [[http://www.karkhana.asia/][Karkhana]]
+   - "Teachers, Tinkers, Experimenters!"
+   - "Catalyze an ecosystem that permits the kids they teach to do the things they were unable to do – create innovative solutions to local problems, and make a living while doing it."
 
 * Machine Learning and Artificial Intelligence
 
 ** Natural Language and Speech Processing 
 
-- [[http://integratedict.com.np/website/index.php][IntegratedICT]]
-  - Applying the latest developments in AI to develop novel solutions to challenging problems.
-    Team of computer scientists and software Engineers and founded in 2012.
+1. [[http://integratedict.com.np/website/index.php][IntegratedICT]]
+   - Applying the latest developments in AI to develop novel solutions to challenging problems.
+     Team of computer scientists and software Engineers and founded in 2012.
 
 * Society, Development and Open Data
 
-- [[http://www.kathmandulivinglabs.org/][Kathmandu Living Labs (KLL)]]
-  - "A civic tech group striving to co-create digital tools and information infrastructure so that government, nonprofits and businesses can use 21st century technology to provide everyday citizens the best services."
-  - Has worked mostly in collecting and visualizing mapping data useful for various socio-economic aspects. 
+1. [[http://www.kathmandulivinglabs.org/][Kathmandu Living Labs (KLL)]]
+   - "A civic tech group striving to co-create digital tools and information infrastructure so that government, nonprofits and businesses can use 21st century technology to provide everyday citizens the best services."
+   - Has worked mostly in collecting and visualizing mapping data useful for various socio-economic aspects. 
 
-- [[http://nalibeli.org/][Nalibeli]] and [[http://galligalli.org/][Galligalli]]
-  - "Make people's lives easier by providing information on processes – formal and informal – for accessing government services."
-  - All Government rules and regulations for public service in one single place with wikipedia style collaboration strategy.
+2. [[http://nalibeli.org/][Nalibeli]] and [[http://galligalli.org/][Galligalli]]
+   - "Make people's lives easier by providing information on processes – formal and informal – for accessing government services."
+   - All Government rules and regulations for public service in one single place with wikipedia style collaboration strategy.
 
-- [[http://opennepal.net/][OpenNepal]]
-  - "A knowledge hub and a learning space for organizations and people that produce, share and use data for development"
-  - "Open Nepal exists to improve how data for development is produced, shared and used in Nepal by supporting a community of civil society groups, media, private sector, government and academia to share data lessons, experiences, expertise and ideas."
+3. [[http://opennepal.net/][OpenNepal]]
+   - "A knowledge hub and a learning space for organizations and people that produce, share and use data for development"
+   - "Open Nepal exists to improve how data for development is produced, shared and used in Nepal by supporting a community of civil society groups, media, private sector, government and academia to share data lessons, experiences, expertise and ideas."
 
