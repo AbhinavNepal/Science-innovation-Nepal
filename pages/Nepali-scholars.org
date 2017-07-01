@@ -30,9 +30,10 @@ I prefer to keep the repository updated so that it contains currently active res
 
 *Having a PhD is neither a necessary nor a sufficient condition* for making into the list.
 The person must be active, contributing to the research community, and society by regularly publishing papers.
-Thus, someone who is working in an industry but regularly publishes scientific articles related to their work.
+Thus, someone who is working in an industry but regularly publishes scientific articles related to their work will also be enlisted.
 
 *Note:* I would like to include PhD candidates too, if they are publishing articles in the most reputed international journals/conferences of their respective fields.
+But this needs help from people who actually know their field and can make a fair judgment on what qualifies as good quality publications in their respective fields.
 
 #+TOC: headlines 2
 
