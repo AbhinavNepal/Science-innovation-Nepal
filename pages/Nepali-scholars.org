@@ -63,9 +63,17 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 :PROPERTIES:
 :h-index:  18
 :END:
-- School of Molecular Biosciences
-- ?
+- School of Molecular Biosciences, University of Sydney, Australia
+- Bacterial adaptation, evolution, genetics
 - [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
+
+*** Niranjan Parajuli
+:PROPERTIES:
+:h-index:  7
+:END:
+- National College (NIST), Department of Biotechnology, Tribhuvan University, Nepal
+- Bio-organic chemistry, biotechnolgy, biochemistry
+- [[https://scholar.google.com/citations?user=nZ_yVn4AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Niranjan_Parajuli][Researchgate]]
 
 *** [[http://www.chdsnepal.org/profile/dr-roshan-l-shrestha-phd-ms-research-fage/][Roshan Lal Shrestha]]
 :PROPERTIES:
@@ -81,10 +89,10 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 - Role of DNA methylation on Glioblastoma (GBM) and GBM stem cell biology.
 - [[https://www.researchgate.net/profile/Rajendra_Pangeni][Researchgate]]
 
-*** Yadav Sapkota
-- Department of Epidemiology & Cancer Control, St. Jude Children's Research Hospital, USA
+*** Sawan Jha
+- Translational Cancer Biology Laboratory, University of Helsinki, Finland
 - ?
-- [[https://scholar.google.com/citations?user=QzIbC5oAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Yadav_Sapkota][Researchgate]]
+- [[https://www.researchgate.net/profile/Sawan_Jha][Researchgate]]
 
 ** Microbiology and related Biotechnology
 
@@ -171,6 +179,14 @@ Thus, someone who is working in an industry but regularly publishes scientific a
 * Informatics, Computer and Computational Science
 
 ** Bioinformatics and Genomics
+
+*** Yadav Sapkota
+:PROPERTIES:
+:h-index:  8
+:END:
+- Department of Epidemiology & Cancer Control, St. Jude Children's Research Hospital, USA
+- ?
+- [[https://scholar.google.com/citations?user=QzIbC5oAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Yadav_Sapkota][Researchgate]]
 
 *** [[https://raunakms.wordpress.com/about/][Raunak Shrestha]]
 :PROPERTIES:
