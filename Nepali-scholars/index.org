@@ -95,6 +95,11 @@ But this needs help from people who actually know their field and can make a fai
 - ?
 - [[https://www.researchgate.net/profile/Sawan_Jha][Researchgate]]
 
+*** [[https://profiles.stanford.edu/aashish-jha?tab=bio][Ashish Jha]]
+- Stanford University, USA
+- "interested in using genetic diversity to understand human demographic and evolutionary processes in human populations"
+- Couldn't find google scholar or researchgate; [[https://profiles.stanford.edu/aashish-jha?tab=publications][List of publications]]
+
 ** Microbiology and related Biotechnology
 
 *** [[http://ribb.org.np/member/get_individual_detail/bijay-singh-phd][Bijay Singh]]
