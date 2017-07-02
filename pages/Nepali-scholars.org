@@ -102,7 +102,7 @@ But this needs help from people who actually know their field and can make a fai
 - Biomaterials design for gene/vaccine/drug delivery, Bioengineering of microbes for novel antibiotics
 - [[https://www.researchgate.net/profile/Bijay_Singh][Researchgate]]
 
-** Infectious Disease
+** Infectious Disease and Immunology
 
 *** [[http://webhost.nts.jhu.edu/gl/][Gyanu Lamichhane]]
 :PROPERTIES:
@@ -111,6 +111,14 @@ But this needs help from people who actually know their field and can make a fai
 - Division of Infectious Disease, Johns Hopkins, USA
 - Understand the fundamental mechanisms used by Mycobacterium tuberculosis to survive, grow and cause disease
 - [[https://scholar.google.co.uk/citations?user=5UCd-DIAAAAJ&hl=en][Google scholar]]
+
+*** [[http://kribs.org.np/team-members-department-of-infection-and-immunology/][Anurag Adhikari]]
+:PROPERTIES:
+:h-index:  1
+:END:
+- Department of Infection and Immunology, Kathmandu Research Institute for Biological Sciences.
+- Understanding host pathogen interaction with specific focus on immune activation.
+- [[https://scholar.google.com/citations?user=fCMN91IAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Anurag_Adhikari][Researchgate]]
 
 ** Clinical Medicine
 
