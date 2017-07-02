@@ -59,6 +59,10 @@ I hope we can come up with some metrics for this {(suggestions are welcome :)}.
      - Food Science Research
      - Strain Culture Center
 
+5. [[http://kribs.org.np/][Kathmandu Research Institute for Biological Sciences]]
+   - Established in 2017, starting focus: Infection and immunology; natural products.
+   - Objective: "research and development of tools and techniques with an aim to enable the study inside biological sciences".
+
 * Material Science, Nanomaterials and Biomaterials
 
 1. [[http://www.nepalpolymer.org/][Nepal Polymer]]
