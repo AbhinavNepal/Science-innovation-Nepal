@@ -155,6 +155,11 @@ But this needs help from people who actually know their field and can make a fai
 - Biomaterials design for gene/vaccine/drug delivery, Bioengineering of microbes for novel antibiotics
 - [[https://www.researchgate.net/profile/Bijay_Singh][Researchgate]]
 
+*** [[http://kribs.org.np/advisory-members/][Birendra Prasad Gupta]]
+- Virology Unit, Central Department of Biotechnology, Tribhuvan University, Nepal
+- Virology
+- [[https://www.researchgate.net/profile/Birendra_Gupta2/publications][Researchgate]]
+
 ** Infectious Disease and Immunology
 
 *** [[https://www.tropicalmedicine.ox.ac.uk/dr-buddha-basnyat][Buddha Basnyat]]
