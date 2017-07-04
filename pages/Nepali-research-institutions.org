@@ -42,7 +42,7 @@ I hope we can come up with some metrics for this {(suggestions are welcome :)}.
 1. [[http://www.chdsnepal.org/][Center for Health and Disease Studies Nepal]]
    - Established very recently; waiting to see their publications
  
-2. [[http://www.cmdn.org.np/][Centre for Modelcular Dynamics Nepal]]
+2. [[http://www.cmdn.org.np/][Center for Modelcular Dynamics Nepal]]
    - Public health, biotechnology and wildlife research
 
 3. [[https://www.tropicalmedicine.ox.ac.uk/nepal][Oxford University Clinical Research Unit - Nepal]]
