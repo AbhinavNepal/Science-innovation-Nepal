@@ -657,3 +657,14 @@ But this needs help from people who actually know their field and can make a fai
 - Dept. of Economics, MIT
 - Market Design, Matching, Labor Economics, Economics of Education
 - [[https://scholar.google.ca/citations?user=VZkUirwAAAAJ&hl=en][Google scholar]]
+* Education
+** Mathematics
+
+*** [[http://bluitel.com.np/about-me/][Bal Chandra Luitel]]
+:PROPERTIES:
+:h-index:  10
+:END:
+
+- School of Education, Kathmandu University, Nepal
+- Mathematics education, arts-based education research, transformative education
+- [[https://scholar.google.com/citations?user=Kx9KdVsAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Bal_Luitel][Researchgate]]
