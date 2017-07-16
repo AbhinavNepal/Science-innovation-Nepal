@@ -312,7 +312,7 @@ But this needs help from people who actually know their field and can make a fai
 - Statistical Genetics, Genetic Epidemiology, Bioinformatics
 - [[https://scholar.google.com/citations?user=QzIbC5oAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Yadav_Sapkota][Researchgate]]
 
-*** [[https://raunakms.wordpress.com/about/][Raunak Shrestha]]
+*** [[http://raunakms.github.io/][Raunak Shrestha]]
 :PROPERTIES:
 :h-index:  4
 :END:
