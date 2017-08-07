@@ -1,4 +1,4 @@
-Sitemap: https://bishesh.github.io/Science-innovation-Nepal/sitemapindex.xml
+Sitemap: https://abhinavnepal.github.io/Science-innovation-Nepal/sitemapindex.xml
 
 User-Agent: *
-Host: bishesh.github.io
+Host: abhinavnepal.github.io

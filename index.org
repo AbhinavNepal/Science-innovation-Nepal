@@ -24,7 +24,7 @@ You are at a right place if you are looking for:
 
 4. Find out journals and conferences in Nepal ([[../Nepali-journals-conferences/][link]]).
 
-Please contribute to expand and keep this resource up to date by creating an issue or pull request [[https://github.com/bishesh/Science-innovation-Nepal/tree/master][at github]] for any addition/correction.
+Please contribute to expand and keep this resource up to date by creating an issue or pull request [[https://github.com/AbhinavNepal/Science-innovation-Nepal][at github]] for any addition/correction.
 Please let me know if:
 
 1. there is someone {(even you :)} who is not in the list but should be,
