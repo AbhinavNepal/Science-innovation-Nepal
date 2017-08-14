@@ -293,12 +293,22 @@ But this needs help from people who actually know their field and can make a fai
 - Conservation Genetics, Zoonotic Diseases, Biodiversity
 - [[https://www.linkedin.com/in/dibeshkarmacharya/][Linkedin]] :TODO: list of publications either at google scholar, research gate or personal webpage
 
-** Biofeul, Bioenergy
+** Biofuel, Bioenergy
 
 *** [[http://www2.hawaii.edu/~khanal/][Samir Khanal]]
 - University of Hawaii-Manoa, US
 - Bioprocessing for biofuel/bioenergy production and recovery of value-added products from renewable low-cost feedstocks
 - [[https://scholar.google.co.uk/citations?user=ZoYE6k0AAAAJ&hl=en][Google scholar]]
+
+** Atmospheric Science
+
+*** [[http://www.iass-potsdam.de/en/people/dr-maheswar-rupakheti][Maheswar Rupakheti]]
+:PROPERTIES:
+:h-index:  11
+:END:
+- Institute for Advanced Sustainability Studies (IASS), Postdam, Germany
+- Air pollution causes, "co-designing clean solutions rooted in sound science and carefully examined local context (technology, policy, regulation, finance, culture)", focus on Himalayan region
+- [[https://scholar.google.com/citations?user=upU6fWsAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Maheswar_Rupakheti][Researchgate]]
 
 * Informatics, Computer and Computational Science
 
