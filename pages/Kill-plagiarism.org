@@ -1,5 +1,5 @@
 #+BEGIN_COMMENT
-.. title: Kill-plagiarism
+.. title: Kill Plagiarism
 .. slug: Kill-plagiarism
 .. date: 2017-10-13 16:54:18 UTC+01:00
 .. tags: 

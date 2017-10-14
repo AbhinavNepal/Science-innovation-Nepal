@@ -140,6 +140,7 @@ NAVIGATION_LINKS = {
         ("/Nepali-research-institutions/", "Research Institutes"),
         ("/Nepali-innovation-industry/", "Innovation Industry"),
         ("/Nepali-journals-conferences/", "Journals and Conferences"),
+        ("/Kill-plagiarism/", "Kill Plagiarism"),
         # ("/archive.html", "Archive"),
         # ("/categories/", "Tags"),
         # ("/rss.xml", "RSS feed"),
