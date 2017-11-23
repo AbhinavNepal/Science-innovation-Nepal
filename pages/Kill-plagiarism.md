@@ -122,6 +122,9 @@ Source: [Mysansar: published on 2015-08-15](http://www.mysansar.com/2015/08/1927
   * Published in: Bali Medical Journal
   * Status: Retracted
 
+* **Newspapers:**
+  * 2017-11-23 : [My Republica: Docs plagiarizing Nigerian research in paper on West Nepal](http://www.myrepublica.com/news/31268/)
+
 * **Plagiarizers:**
 
   * M.K Shrewastwa: Lecturer, Department of Biochemistry, Kathmandu University, Nepalgunj Medical College, Kohalpur, Nepal. Email: shrimukesh5@yahoo.com
