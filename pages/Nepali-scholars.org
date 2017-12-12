@@ -310,7 +310,7 @@ But this needs help from people who actually know their field and can make a fai
 - Air pollution causes, "co-designing clean solutions rooted in sound science and carefully examined local context (technology, policy, regulation, finance, culture)", focus on Himalayan region
 - [[https://scholar.google.com/citations?user=upU6fWsAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Maheswar_Rupakheti][Researchgate]]
 
-* Informatics, Computer and Computational Science
+* Informatics, Computational Science and Engineering
 
 ** Bioinformatics and Genomics
 
@@ -329,6 +329,8 @@ But this needs help from people who actually know their field and can make a fai
 - Laboratory of Advanced Genome Analysis , University of British Columbia, Canada.
 - Bioinformatics, Cancer Genomics, Systems Medicine, Precision Oncology, Data Science
 - [[https://scholar.google.com/citations?user=5A37xOcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Raunak_Shrestha][Researchgate]]
+
+
 
 ** Climate change, Geomechanics, Seismology, Hydroinformatics
 
@@ -471,7 +473,7 @@ But this needs help from people who actually know their field and can make a fai
   Close collaboration with School of Geography and the Environment.
 - [[https://scholar.google.com/citations?user=ukm0MmgAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Achut_Manandhar][Researchgate]]
 
-** Medical Imaging Informatics and Physics
+** Biomedical Engineering, Medical Imaging Informatics and Physics
 
 *** Kishor Karki
 :PROPERTIES:
@@ -480,10 +482,6 @@ But this needs help from people who actually know their field and can make a fai
 - ? Medical College of Winsconsin or Virginia Commonwealth University
 - ?
 - [[https://scholar.google.com/citations?user=_k9u_NwAAAAJ&hl=en][Google Scholar]], [[https://www.researchgate.net/profile/Kishor_Karki][Researchgate]]
-*** [[https://sites.google.com/site/sharibprofile/home][Sharib Ali]]
-- Biomedical Computer Vision Group, German Cancer Research Center, DKFZ, Germany.
-- Solving computer vision and image processing related problems in medical imaging.
-- [[https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Sharib_Ali][Researchgate]]
 
 *** [[http://www.umassmed.edu/radiology/research/radiological-physics-laboratory/laboratory-members/][Suman Shrestha]]
 :PROPERTIES:
@@ -492,6 +490,32 @@ But this needs help from people who actually know their field and can make a fai
 - Radiological Physics Laboratory, UMass Medical School
 - ?
 - [[https://scholar.google.com/citations?user=zlFEgDgAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Suman_Shrestha5][Researchgate]]
+
+*** [[https://sites.google.com/site/sharibprofile/home][Sharib Ali]]
+:PROPERTIES:
+:h-index:  6
+:END:
+- Biomedical Computer Vision Group, German Cancer Research Center, DKFZ, Germany.
+- Solving computer vision and image processing related problems in medical imaging.
+- [[https://scholar.google.com/citations?user=NX8ifFkAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Sharib_Ali][Researchgate]]
+
+*** [[https://2rnsc.wordpress.com/][Prakash Manandhar]]
+:PROPERTIES:
+:h-index:  4
+:END:
+
+- SDM fellow at MIT, Boston; and a senior engineer at Bose, USA.
+- Computational material science, ultrasonics, acoustics, signal processing.
+- [[https://scholar.google.com/citations?user=h7GoNmwAAAAJ&hl=en&oi=ao][Google scholar]]
+
+*** [[http://www.rit.edu/kgcoe/biomedical/lintegrp/graduate-students][Shusil Dangi]]
+:PROPERTIES:
+:h-index:  1
+:END:
+- (PhD candidate) Rochester Institute of Technology,
+- Medical Imaging, Computer Vision, Image Segmentation, Multimodal/Monomodal Image Registration
+- [[https://scholar.google.co.uk/citations?user=h12ifugAAAAJ&hl=en][Google scholar]]
+
 *** [[http://jwaladhamala.com/][Jwala Dhamala]]
 :PROPERTIES:
 :h-index:  1
@@ -505,11 +529,6 @@ But this needs help from people who actually know their field and can make a fai
 - Department of nuclear medicine, Centre Hospitalier Universitaire de Poitiers, France
 - Radiomics and cancer imaging
 - [[https://www.researchgate.net/profile/Taman_Upadhaya][Researchgate]]
-
-*** [[http://www.rit.edu/kgcoe/biomedical/lintegrp/graduate-students][Shusil Dangi]]
-- (PhD candidate) Rochester Institute of Technology,
-- Medical Imaging, Computer Vision, Image Segmentation, Multimodal/Monomodal Image Registration
-- [[https://scholar.google.co.uk/citations?user=h12ifugAAAAJ&hl=en][Google scholar]]
 
 ** Cyber security
 *** [[http://dhilung.com/][Dhilung Kirat]]
