@@ -157,6 +157,59 @@ Source: [Mysansar: published on 2015-08-15](http://www.mysansar.com/2015/08/1927
     * Binod Yadav: Assistant Professor, Institute of Medicine, Kathmandu, Nepal.
 
 
+## Case-0004
+
+* **Copied:** 
+    * [RETRACTED: (Case Report) Rhinosporidiosis of the Parotid Duct](https://www.hindawi.com/journals/crid/2014/131794/abs/)
+    * [Researchgate](https://www.researchgate.net/publication/260487328_Rhinosporidiosis_of_the_Parotid_Duct)
+	* Published in: Hindawi, Case reports in dentistry. 2014 Jan. Doi: dx.doi.org/10.1155/2014/131794
+	* Status: Retracted
+
+* **Plagiarizers:**
+    * Santosh Kumar Yadav: Department of Oral and Maxillofacial Surgery, Chitwan Medical College Pvt. Ltd, Bharatpur, Nepal.
+      IAOMS Fellow Oral and Maxillofacial Oncology and Reconstructive Surgery, Department of Oral and Maxillofacial Surgery, Peking University School of Stomatology, Beijing, China
+	* Suraksha Shrestha: Department of Prosthodontics, National Academy of Medical Sciences, Bir Hospital, Kathmandu.
+	  Lecturer, Department of Biochemistry, Gandki Medical College, Pokhara, Nepal.
+
+
+## Case-0005
+
+* **Self-Plagiarism:** 
+    * Submission 1: [RETRACTED: Review of brucellosis in Nepal](https://www.e-epih.org/journal/view.php?number=905)
+    * Submission 2: [RETRACTED: Review of brucellosis in Nepal](https://www.sciencedirect.com/science/article/pii/S2314459916300060)
+	* Published in: 
+	  1. Epidemiol Health 2016 Oct
+	  2. International Journal of Veterinary Science and Medicine. Volume 4, Issue 2, December 2016.
+	* Status: Retracted
+
+
+## Case-0006
+
+* **Copied paragraphs in the article** 
+    * [RETRACTED: Cardiac Resynchronization Therapy for Heart Failure.](https://www.nepjol.info/index.php/JAIM/article/view/6528)
+    * Published in: Journal of Advances in Internal Medicine 2012;01(02):65-68
+	* Status: Retracted
+
+* **Plagiarizers**
+    * Sujeeb Rajbhandari, Man Bahadur KC, Roshan Raut, Murari Dhungana, Kunal Bikram Shaha
+
+
+## Case-0007
+
+*  **Original:**
+    * [Correlation between serum-ascites albumin concentration gradient and endoscopic parameters of portal hypertension](https://www.ncbi.nlm.nih.gov/pubmed/9820392)
+
+* **Copied:** 
+    * [Correlation between serum-ascites albumin concentration gradient and endoscopic parameters of portal hypertension.](https://www.ncbi.nlm.nih.gov/pubmed/16449830)
+    * [Researchgate](https://www.researchgate.net/publication/7323852_Correlation_between_serum-ascites_albumin_concentration_gradient_and_endoscopic_parameters_of_portal_hypertension)
+	* Published in: Kathmandu Univ Med J (KUMJ). 2005 Oct-Dec;3(4):327-33
+	* Status: NOT RETRACTED (Only Editors note ?)
+
+* **Plagiarizers:**
+    * DL Gurubacharya (Dipesh Lal ?), Department of Medicine, Kathmandu Medical College Teaching Hospital, Nepal.
+    * KC Mathura
+    * DB Karki
+
 <a id="books"></a>
 
 # Books
