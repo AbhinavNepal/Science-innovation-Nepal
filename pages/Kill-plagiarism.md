@@ -169,4 +169,4 @@ Source: [Mysansar: published on 2015-08-15](http://www.mysansar.com/2015/08/1927
 
 ## TU thesis kinbech (किनबेच)
    Investigative journalism that reveals many of the TU officials involved in running business out of plagiarized theses.
-   Video: [Source 1](https://www.youtube.com/watch?v=bZaKkstH9Dw), [Source 2](https://www.youtube.com/watch?v=qeijf9QyFVU), [Source 3](https://www.facebook.com/officialnepalutube/videos/2065527097051628/?hc_ref=ARTQ8XysB1FYqpvRBLy7CualsFrREu5m3pVfYBSjtIQnE9IuWmLl84rmoy5u2Uv9pKw&pnref=story)
+   Video: [Source 1](https://www.youtube.com/watch?v=bZaKkstH9Dw), [Source 2](https://www.youtube.com/watch?v=qeijf9QyFVU)
