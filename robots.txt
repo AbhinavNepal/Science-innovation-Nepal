@@ -1,4 +1,4 @@
-Sitemap: https://abhinavnepal.com/Science-innovation-Nepal/sitemapindex.xml
+Sitemap: http://abhinavnepal.com/sitemapindex.xml
 
 User-Agent: *
 Host: abhinavnepal.com
