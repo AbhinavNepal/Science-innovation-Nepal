@@ -148,6 +148,11 @@ But this needs help from people who actually know their field and can make a fai
 - "interested in using genetic diversity to understand human demographic and evolutionary processes in human populations"
 - Couldn't find google scholar or researchgate; [[https://profiles.stanford.edu/aashish-jha?tab=publications][List of publications]]
 
+*** [[https://scholar.princeton.edu/korennykhlab/lab-members][Alisha Chitrakar]]
+- PhD candidate, Princeton University, USA.
+- Molecular Biology
+- [[https://www.linkedin.com/in/alisha-chitrakar-586a111b/][LinkedIn]] (Google scholar or Researchgate, or academic webpage with all publications please!!)
+
 ** Microbiology and related Biotechnology
 
 *** [[http://ribb.org.np/member/get_individual_detail/bijay-singh-phd][Bijay Singh]]
@@ -238,6 +243,13 @@ But this needs help from people who actually know their field and can make a fai
 - Faculty of Health Sciences, Hokkaido University, Japan
 - Lipid, Lipoprotein, Cardiovascular Disease
 - [[https://scholar.google.com/citations?user=RIJ11WMAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Rojeet_Shrestha][Researchgate]]
+
+** Neuroscience
+
+*** Sujaya Neupane
+- Postdoctoral fellow, [[http://mcgovern.mit.edu/][McGovern Institute]], MIT, USA
+- Neuroscience, eye movement, vision, perception
+- [[https://scholar.google.ca/citations?user=6e-EKsUAAAAJ&hl=en][Google Scholar]]
 
 * Chemistry and its subfields
 
@@ -630,6 +642,18 @@ But this needs help from people who actually know their field and can make a fai
 - [[https://www.youtube.com/watch?v=6ZJysKmulSQ][Short video]]
 - Polymers, nano dots, molecular dynamics, monte carlo, first-principles simulations of solids.
 - [[https://scholar.google.co.uk/citations?user=VhEXmuEAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Narayan_Adhikari2][Researchgate]]
+
+*** Suyog Shrestha
+- Physicist, CERN, Switzerland
+- ATLAS Experiment, Large Hadron Collider.
+- [[https://www.linkedin.com/in/suyog-shrestha-aa6a1665/][LinkedIn]] (Google Scholar and/or Researchgate, or academic/institutional/personal webpage with all publications please!!)
+
+** Physics Computing, Modeling and Simulation
+
+*** [[https://www.wlu.edu/physics-and-engineering-department/faculty-and-staff/profile?ID=x13278][Rupesh Silwal]]
+- Senior Postdoctoral Researcher, Laboratory of Nuclear Physics, MIT, USA.
+- Software and hardware development, modeling and simulation, scientific data analysis, data acquisition, and analytical and numerical techniques.
+- [[https://www.linkedin.com/in/rupesh-silwal-ph-d-10314229/][LinkedIn]] (But we prefer Google scholar and/or Researchgate please!!)
 
 * Mechanical, Civil and Aerospace Engineering
 
