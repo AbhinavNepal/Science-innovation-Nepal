@@ -27,7 +27,7 @@ You are at a right place if you are looking for:
 4. Find out journals and conferences in Nepal ([[../Nepali-journals-conferences/][link]]).
 
 Please contribute to expand and keep this resource up to date by creating an issue or pull request [[https://github.com/AbhinavNepal/Science-innovation-Nepal][at github]] for any addition/correction.
-Please let me know if:
+Please let us know if:
 
 1. there is someone {(even you :)} who is not in the list but should be,
 
@@ -35,7 +35,7 @@ Please let me know if:
 
 3. you have (a) suggestion(s) on how to expand or add other different kinds of information.
 
-I hope these resources are useful for anyone interested in doing science and innovation related works in/for Nepal.
+We hope these resources are useful for anyone interested in doing science and innovation related works in/for Nepal.
 
 *Copyright and usage:*
 All the information in this website are collected from public websites such as google scholar, researchgate, personal/academic websites of the related people.

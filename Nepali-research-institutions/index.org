@@ -16,8 +16,8 @@
 - To make into this list, the organization must regularly update their list of contributions in peer-reviewed conferences and journals of "good quality".
 - *Reports written by NGOs* without any corresponding publications in a peer-review journals/conferences do not count!
 
-I know, "good quality" is difficult to measure, this is a *TODO*.
-I hope we can come up with some metrics for this {(suggestions are welcome :)}.
+We know, "good quality" is difficult to measure, this is a *TODO*.
+We hope that we can come up with some metrics for this {(suggestions are welcome :)}.
 
 
 #+TOC: headlines 1
