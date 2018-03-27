@@ -16,16 +16,16 @@
 #+OPTIONS: toc:nil
 
 For the list of journals, it seems that there is already a database [[http://www.nepjol.info/index.php/index][here]].
-So, I am not collecting the database right now, but I need to properly read what exactly Nepal Journals Online do.
-I am a strong believer in open science and believe that all research works must be made openly available.
+So, we are not collecting the database right now, but we need to properly read what exactly Nepal Journals Online do.
+We strongly believe in open science and that all research works must be made openly available.
 
-Also, I would be interested in finding out some scientific way of ranking the journals.
+Also, we are interested in finding out some scientific way of ranking the journals.
 The objective is to provide incentives to the journals to maintain quality.
 
 * Upcoming Conferences
 
 ** International
-- Mountains in the changing world ([[http://conference.kias.org.np/][MOCHWO 2017]])
+- Mountains in the changing world ([[http://conference.kias.org.np/][MOCHWO 2018]])
 
 ** National
 
