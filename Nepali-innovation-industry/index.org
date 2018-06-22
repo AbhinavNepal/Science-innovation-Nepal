@@ -28,6 +28,13 @@ The list will have companies that have some of the following traits:
 
 #+TOC: headlines 1
 
+* General, Daily life, Finance, Business, Marketing
+
+1. [[http://janakitech.com/][Janiketech]]
+   - [[http://sparrowsms.com/][Sparrow sms]] : Bulk SMS provider
+   - [[https://khalti.com/][Khalti]] : Digital Wallet and payment gateway
+   - [[http://picovico.com/][Picovico]] : Create beautiful videos from photos
+
 * Education and Technology
 
 1. [[http://www.karkhana.asia/][Karkhana]]
@@ -36,11 +43,10 @@ The list will have companies that have some of the following traits:
 
 * Machine Learning and Artificial Intelligence
 
-** Natural Language and Speech Processing 
-
 1. [[http://integratedict.com.np/website/index.php][IntegratedICT]]
-   - Applying the latest developments in AI to develop novel solutions to challenging problems.
-     Team of computer scientists and software Engineers and founded in 2012.
+   - Applying the latest developments in AI to develop novel solutions to challenging problems in natural language processing.
+
+   - Team of computer scientists and software Engineers and founded in 2012.
 
 * Society, Development and Open Data
 
@@ -56,3 +62,7 @@ The list will have companies that have some of the following traits:
    - "A knowledge hub and a learning space for organizations and people that produce, share and use data for development"
    - "Open Nepal exists to improve how data for development is produced, shared and used in Nepal by supporting a community of civil society groups, media, private sector, government and academia to share data lessons, experiences, expertise and ideas."
 
+* Biotechnology
+
+1. [[http://ficusbiotech.com.np/][Ficus Biotech]]
+   - Tissue culture technology to produce high quality plants
