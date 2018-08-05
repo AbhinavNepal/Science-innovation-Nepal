@@ -212,6 +212,27 @@ Source: [Mysansar: published on 2015-08-15](http://www.mysansar.com/2015/08/1927
 
 <a id="books"></a>
 
+
+## Case-0008
+
+*  **Original:**
+    * [Seasonal Migration and Livelihood Resilience in the Face of Climate Change in Nepal](https://www.jstor.org/stable/90016609?seq=1#page_scan_tab_contents)
+
+* **Copied:** 
+    * [Dynamics of seasonal labour migration and rural livelihood in the middle hill of Nepal: Reflections from Arghakhanchi district, Nepal](https://draftable.com/compare/vzQymzCtbfEQ)
+	* Published in: Academic Research and Development, Vol3,Issue 1; January 2018; Page No. 791-799. 
+	* Status: RETRACTED BUT NOT PROPERLY, pages removed [here](http://www.academicsjournal.com/archives/2018/vol3/issue1). The paper and the retracted information along with reason (link to original) should be kept by the journal!
+
+* **Newspapers**
+	* [Myrepublica](https://myrepublica.nagariknetwork.com/news/tu-associate-professor-plagiarizes-to-get-promotion/)
+
+* **Plagiarizers:**
+    * DL Gurubacharya (Dipesh Lal ?), Department of Medicine, Kathmandu Medical College Teaching Hospital, Nepal.
+    * KC Mathura
+    * DB Karki
+
+<a id="books"></a>
+
 # Books
 
 
