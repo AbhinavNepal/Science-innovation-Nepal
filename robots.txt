@@ -1,4 +1,4 @@
-Sitemap: http://abhinavNepal.github.io/sitemapindex.xml
+Sitemap: https://abhinavNepal.github.io/sitemapindex.xml
 
 User-Agent: *
 Host: abhinavNepal.github.io

@@ -6,11 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>http://abhinavNepal.github.io/rss.xml</loc>
-  <lastmod>2018-08-19T20:11:00Z</lastmod>
+  <loc>https://abhinavNepal.github.io/rss.xml</loc>
+  <lastmod>2018-08-19T20:15:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>http://abhinavNepal.github.io/sitemap.xml</loc>
-  <lastmod>2018-08-19T20:12:00Z</lastmod>
+  <loc>https://abhinavNepal.github.io/sitemap.xml</loc>
+  <lastmod>2018-08-19T20:15:00Z</lastmod>
  </sitemap>
 </sitemapindex>
