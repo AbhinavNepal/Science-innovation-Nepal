@@ -21,12 +21,12 @@ BLOG_AUTHOR = "Abhinav Nepal"  # (translatable)
 BLOG_TITLE = "Science innovation Nepal"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://abhinavNepal.github.io/Science-innovation-Nepal/"
+SITE_URL = "http://abhinavNepal.github.io/"
 #SITE_URL = "https://abhinavnepal.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 #BASE_URL = "https://abhinavnepal.github.io/"
-BASE_URL = "https://abhinavnepal.github.io/Science-innovation-Nepal/"
+#BASE_URL = "https://abhinavnepal.github.io/Science-innovation-Nepal/"
 BLOG_EMAIL = "bisheshkh@gmail.com" # TODO: Update email address once created
 BLOG_DESCRIPTION = "Science and Innovation resources for researchers"  # (translatable)
 
@@ -138,7 +138,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         # link, title
         # ("/pages/", "Home"),
-        ("/Nepali-scholars/", "Scholars"),
+        ("https://www.abhinavnepal.com/", "Scholars"),
         ("/Nepali-research-institutions/", "Research Institutes"),
         ("/Nepali-innovation-industry/", "Innovation Industry"),
         ("/Nepali-journals-conferences/", "Journals and Conferences"),
