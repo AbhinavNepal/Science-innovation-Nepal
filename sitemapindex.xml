@@ -6,11 +6,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://abhinavnepal.github.io/Science-innovation-Nepal/rss.xml</loc>
-  <lastmod>2018-07-22T15:14:00Z</lastmod>
+  <loc>http://abhinavNepal.github.io/rss.xml</loc>
+  <lastmod>2018-08-19T20:11:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://abhinavnepal.github.io/Science-innovation-Nepal/sitemap.xml</loc>
-  <lastmod>2018-07-22T15:14:00Z</lastmod>
+  <loc>http://abhinavNepal.github.io/sitemap.xml</loc>
+  <lastmod>2018-08-19T20:12:00Z</lastmod>
  </sitemap>
 </sitemapindex>
