@@ -22,8 +22,6 @@ You are at a right place if you are looking for:
 
 3. Explore Nepali science, technology and innovation industry, ([[../Nepali-innovation-industry/][link]])
 
-3. List of plagiarism incidences in Nepali academia and research, ([[../Kill-plagiarism/][link]])
-
 4. Find out journals and conferences in Nepal ([[../Nepali-journals-conferences/][link]]).
 
 Please contribute to expand and keep this resource up to date by creating an issue or pull request [[https://github.com/AbhinavNepal/Science-innovation-Nepal][at github]] for any addition/correction.

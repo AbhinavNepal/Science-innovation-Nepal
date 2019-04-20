@@ -14,7 +14,6 @@ You can also contribute to the repository by creating an issue or asking for a p
 - Page with a list of Nepali scholars around the world.
 - Page with a list of research institutions in Nepal (those who have a proper list of publications in their website)
 - Page with a list of innovative and emerging tech-related companies in Nepal
-- Page with a list of plagiarism incidences in Nepal.
 
 * Wish lists
 - Page with a list of grants, fellowship available for scientists world-wide

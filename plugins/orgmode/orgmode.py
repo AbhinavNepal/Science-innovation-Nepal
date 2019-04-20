@@ -56,7 +56,8 @@ class CompileOrgmode(PageCompiler):
 
     name = "orgmode"
 
-    def compile_html(self, source, dest, is_two_file=True):
+    def compile(self, source, dest, is_two_file=True, post=None, lang=None):
+        """Compile the source file into HTML and save as dest."""
         makedirs(os.path.dirname(dest))
         try:
             command = [
@@ -71,18 +72,15 @@ class CompileOrgmode(PageCompiler):
                 command[5] = command[5].replace("\\", "\\\\")
 
             subprocess.check_call(command)
-            try:
-                post = self.site.post_per_input_file[source]
-            except KeyError:
-                post = None
             with io.open(dest, 'r', encoding='utf-8') as inf:
-                output, shortcode_deps = self.site.apply_shortcodes(inf.read(), with_dependencies=True)
+                output, shortcode_deps = self.site.apply_shortcodes(
+                    inf.read(), extra_context={'post': post})
             with io.open(dest, 'w', encoding='utf-8') as outf:
                 outf.write(output)
             if post is None:
                 if shortcode_deps:
                     self.logger.error(
-                        "Cannot save dependencies for post {0} due to unregistered source file name",
+                        "Cannot save dependencies for post {0} (post unknown)",
                         source)
             else:
                 post._depfile[dest] += shortcode_deps
@@ -92,15 +90,10 @@ class CompileOrgmode(PageCompiler):
                 req_missing(['emacs', 'org-mode'],
                             'use the orgmode compiler', python=False)
         except subprocess.CalledProcessError as e:
-                raise Exception('Cannot compile {0} -- bad org-mode '
-                                'configuration (return code {1})'.format(
-                                    source, e.returncode))
+            raise Exception('Cannot compile {0} -- bad org-mode configuration (return code {1})'.format(source, e.returncode))
 
-    def create_post(self, path, **kw):
-        content = kw.pop('content', None)
-        onefile = kw.pop('onefile', False)
-        kw.pop('is_page', False)
-
+    def create_post(self, path, content=None, onefile=False, is_page=False, **kw):
+        """Create post file with optional metadata."""
         metadata = OrderedDict()
         metadata.update(self.default_metadata)
         metadata.update(kw)
