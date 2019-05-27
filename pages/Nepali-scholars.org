@@ -433,6 +433,14 @@ But this needs help from people who actually know their field and can make a fai
 
 ** Electronics and Related Computing
 
+*** [[https://www.uia.no/en/kk/profil/ajitj][Ajit Jha]]
+:PROPERTIES:
+:h-index:  6
+:END:
+- Department of Engineering Sciences, University of Agder, Norway.
+- Autonomous systems, Sensors, Sensor Fusion, Signal processing and Algorithm development.
+- [[https://scholar.google.es/citations?hl=en&user=zlg_lO8AAAAJ&view_op=list_works&sortby=pubdate][Google scholar]], [[https://www.linkedin.com/in/ajit-jha-phd-11b19a27][LinkedIn]]
+
 *** [[https://www.stthomas.edu/engineering/faculty/kundan-nepal-.html][Kundan Nepal]]
 :PROPERTIES:
 :h-index:  10
